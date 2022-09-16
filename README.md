@@ -1,4 +1,4 @@
-# Project_2
+# Project_2 : COVID-19 data
 
 For this project, we decided to use Covid-19 vaccine data (https://www.kaggle.com/datasets/paultimothymooney/usa-covid19-vaccinations) and Covid-19 case data (https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4).
 
