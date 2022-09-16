@@ -6,7 +6,7 @@ Below are the steps we followed :
 
 ![Process](Resources/Picture1.png)
 
-* We extracted data from Kaggle's database of Covid-19 vaccination data doing an API pull request and a read function in python. The data was cleaned and extracted into  two dataframes. To review script please click [Joint_Notebook.ipynb](Joint_Notebook.ipynb.ipynb)
+* We extracted data from Kaggle's database of Covid-19 vaccination data doing an API pull request and a read function in python. The data was cleaned and extracted into  two dataframes. To review script please click [Joint_Notebook](Joint_Notebook.ipynb.ipynb)
 
 * Next we loaded those dataframe into postgresql using SQLAlchemy.
 
