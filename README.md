@@ -5,10 +5,10 @@ For this project, we decided to use Covid-19 vaccine data (https://www.kaggle.co
 Below are the steps we followed :
 ![Process](Resources/Picture1.png)
 
-* We extracted data from Kaggle's database of Covid-19 vaccination data, looking at both first and second doses. The data was cleaned by combining Moderna and Pfizer doses, and finding the vaccine doses administered on a state-by-state basis. 
+* We extracted data from Kaggle's database of Covid-19 vaccination data doing an API pull request and a read function in python. The data was cleaned and extracted into  two dataframes. 
 
-* Next, we took a look at Covid-19 case data, provided by the CDC. We also made sure to clean this dataset by narrowing it down to a state-by-state basis and finding a count of cases in each state. 
+* Next we loaded those dataframe into postgresql using SQLAlchemy.
 
-* Finally, we combined these two datasets to compare Covid-19 cases in each state with first and second vaccinations from two of the top three providers. 
+* Finally, we created tables and schema to write queries against thes tables.
 
-This final dataset was uploaded into the csv attached.
+
