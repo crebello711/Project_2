@@ -10,6 +10,6 @@ Below are the steps we followed :
 
 * Next we loaded those dataframe into postgresql using SQLAlchemy.
 
-* Finally, we created tables and schema to write queries against thes tables.
+* Finally, we created tables and schema to write queries against thes tables.To review the schema and tables: [SQL_schema_&_queries](SQL_schema_&_queries)
 
 
